@@ -16,6 +16,9 @@ img{
 nav {    
     background: #24292e !important;
 }
+.navbar-nav a:hover {
+    color: lightgray !important;
+}
 .octicon {
     fill: #fff;
 }
